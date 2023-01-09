@@ -147,7 +147,9 @@
 }
 
 .audio-holder {
-  width: 540px;
+  width: 350px;
+  height: 350px;
+  margin: auto;
 }
 
 .audio-block {
